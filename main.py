@@ -1,5 +1,6 @@
 def print_git_info():
     print("Entered function")
+    print("Started execution")
 
 
 if __name__ == '__main__':
