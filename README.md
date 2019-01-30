@@ -17,3 +17,5 @@ it will consider the current directory to run the code.
 
 2. provide the directory as the relative path from the current 
 directory
+
+3. if get Import error refer this [stackoverflow link](https://stackoverflow.com/questions/48399498/git-executable-not-found-in-python)
