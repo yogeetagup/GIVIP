@@ -6,6 +6,6 @@ control status of the Repository
 
 ## To Run the Project 
 
-`1.`  Run `./install.h` to install the required dependencies.
+`1.`  Run `./install.sh` to install the required dependencies.
 
 `2.`  Run `main.py`.
